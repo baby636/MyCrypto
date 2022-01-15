@@ -113,7 +113,7 @@
     "@storybook/addon-docs": "5.3.13",
     "@storybook/addons": "5.3.13",
     "@storybook/components": "5.3.13",
-    "@storybook/react": "5.3.13",
+    "@storybook/react": "6.4.13",
     "@storybook/theming": "5.3.13",
     "@testing-library/jest-dom": "5.0.2",
     "@testing-library/react": "9.4.0",
