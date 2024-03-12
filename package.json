@@ -110,7 +110,7 @@
     "@phenomnomnominal/tsquery": "4.0.0",
     "@storybook/addon-a11y": "5.3.13",
     "@storybook/addon-actions": "5.3.14",
-    "@storybook/addon-docs": "5.3.13",
+    "@storybook/addon-docs": "8.0.0",
     "@storybook/addons": "5.3.13",
     "@storybook/components": "5.3.13",
     "@storybook/react": "5.3.13",
