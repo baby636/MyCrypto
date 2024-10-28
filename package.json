@@ -47,7 +47,7 @@
     "classnames": "2.2.5",
     "date-fns": "2.16.1",
     "ethereumjs-abi": "0.6.8",
-    "ethereumjs-util": "6.0.0",
+    "ethereumjs-util": "6.2.1",
     "font-awesome": "4.7.0",
     "formik": "2.1.4",
     "graphql": "15.0.0",
